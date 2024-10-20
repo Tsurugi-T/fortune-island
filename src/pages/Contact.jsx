@@ -1,3 +1,5 @@
+// こちらは、/contact 会社へのお問い合わせページです。
+
 import { useNavigate } from "react-router-dom";
 import { useState } from "react";
 
